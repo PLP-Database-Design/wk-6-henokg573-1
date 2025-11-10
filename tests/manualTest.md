@@ -76,16 +76,16 @@ This document outlines the functional and non-functional requirements for the Cl
 | FR-068 | Notification history | History Access | Users can view notification history | TC-NOTIF-004 | Completed | Should show all past notifications | Low | Functional | All past notifications displayed | No notifications | | Henok | 2025-11-10 |
 | FR-069 | Responsive design | Tablet Layout | Works on tablet devices | TC-RESP-002 | Completed | Should use intermediate breakpoints | High | UI | Layout adapts for tablet | Partially responsive; navbar misaligned | | Henok | 2025-11-10 |
 | FR-084 | Page load performance | Initial Load | App loads quickly | TC-PERF-002 | Completed | Should use lazy loading | High | Performance | App loads quickly with optimization | App loads quickly | | Henok | 2025-11-10 |
-| FR-078 | Data in localStorage | Data Integrity | Data remains consistent | TC-STORAGE-002 | Completed | Should handle corrupted data | High | Security | System handles corruption gracefully | Not tested | | Henok |  |
-| FR-024 | Environmental metrics | CO2 Savings | Show CO2 savings from recycling | TC-METRICS-001 | Completed | Should calculate based on waste type | Low | Functional | CO2 savings calculated and displayed | Not implemented | |  |  |
+| FR-078 | Data in localStorage | Data Integrity | Data remains consistent | TC-STORAGE-002 | In Progress | Should handle corrupted data | High | Security | System handles corruption gracefully | Not tested | | Henok |  |
+| FR-024 | Environmental metrics | CO2 Savings | Show CO2 savings from recycling | TC-METRICS-001 | In Progress  | Should calculate based on waste type | Low | Functional | CO2 savings calculated and displayed | Not implemented | |  |  |
 
 ---
 
 ## 📊 Summary Statistics
 
 - **Total Test Cases**: 75
-- **Completed**: 28
-- **Completed**: 47
+- **Completed**: 73
+- **Not Completed**: 2
 - **High Priority**: 28
 - **Medium Priority**: 21
 - **Low Priority**: 26
