@@ -195,4 +195,4 @@ Testing for the CleanCity project was successful in validating major features an
 - **D. Test Plan:** https://github.com/ERICK-tech-eng/wk-6-ERICK-tech-eng-2/blob/main/tests/testplan.md
 - **E. Test Summary:** https://github.com/ERICK-tech-eng/wk-6-ERICK-tech-eng-2/blob/main/tests/test_summary%20(1).md
 - **F. Jira Board:** https://erickomondi833-1762239312960.atlassian.net/jira/software/projects/CWPS/boards/35
-- **F. Loom video:** - **F. Jira Board:** https://erickomondi833-1762239312960.atlassian.net/jira/software/projects/CWPS/boards/35
+- **G. Loom video:** - **F. Jira Board:** https://www.loom.com/share/cf86c12ec1724ae1bf54bbf299d458d9
